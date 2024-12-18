@@ -22,7 +22,7 @@
   ],
   "require": {
     "php": ">=8.2",
-    "ext-swoole": "^4",
+    "ext-swoole": "^5",
     "illuminate/console": "^11.0",
     "illuminate/contracts": "^11.0",
     "illuminate/http": "^11.0",
